@@ -3,4 +3,5 @@
     <string name="escreva_padrao">Escreva aqui...</string>
     <string name="pesquisar_hint">Pesquisar</string>
     <string name="limpar_padrao">Limpar</string>
+    <string name="buttonVoltar">Voltar</string>
 </resources>
